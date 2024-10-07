@@ -1,4 +1,4 @@
-# Brain Tumor Detection
+# 🧠 Brain Tumor Detection
 This project aims to develop a machine learning model for detecting brain tumors using MRI images. The workflow includes data collection, preprocessing, model building, and deployment on Azure for real-time detection. To enhance model performance and dataset diversity, Generative Adversarial Networks (GANs) are used for synthetic image generation.
 
 ## Key Features:
