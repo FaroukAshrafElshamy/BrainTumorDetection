@@ -1,9 +1,8 @@
 # Brain Tumor Detection
----
 This project aims to develop a machine learning model for detecting brain tumors using MRI images. The workflow includes data collection, preprocessing, model building, and deployment on Azure for real-time detection. To enhance model performance and dataset diversity, Generative Adversarial Networks (GANs) are used for synthetic image generation.
 
 ## Key Features:
-* Data Collection & Preprocessing: MRI datasets are collected and preprocessed, including resizing, normalization, and augmentation techniques like denoising and contrast enhancement.
+* `Data Collection & Preprocessing:` MRI datasets are collected and preprocessed, including resizing, normalization, and augmentation techniques like denoising and contrast enhancement.
 * Exploratory Data Analysis (EDA): Detailed analysis and visualization of tumor types, sizes, and locations in the dataset.
 * Model Development: Convolutional Neural Networks (CNNs) are built for binary classification (tumor/no tumor).
 * Azure Integration: The model is deployed on Azure Machine Learning for scalability and real-time tumor detection.
