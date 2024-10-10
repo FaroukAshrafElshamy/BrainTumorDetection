@@ -27,3 +27,6 @@ This project aims to develop a machine learning model for detecting brain tumors
 * GAN-generated MRI images.
 
 * Final report and presentation covering the entire project lifecycle.
+
+## Dataset
+**https://drive.google.com/drive/folders/1za66C_auKUiBqmfckiRFbJqTRTMOp3i3?usp=sharing**
